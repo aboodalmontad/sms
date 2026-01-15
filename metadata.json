@@ -1,0 +1,8 @@
+{
+  "name": "SMS Bulk Sender - Pro Design",
+  "description": "A professional Android UI design and simulation for a bulk SMS management app, allowing users to create groups and send messages directly through their mobile network.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
